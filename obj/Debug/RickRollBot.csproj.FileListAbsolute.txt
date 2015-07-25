@@ -3,3 +3,4 @@ B:\Visual Studio 2013\Projects\RickRollBot\bin\Debug\RickRollBot.exe
 B:\Visual Studio 2013\Projects\RickRollBot\bin\Debug\RickRollBot.pdb
 B:\Visual Studio 2013\Projects\RickRollBot\obj\Debug\RickRollBot.exe
 B:\Visual Studio 2013\Projects\RickRollBot\obj\Debug\RickRollBot.pdb
+B:\Visual Studio 2013\Projects\RickRollBot\obj\Debug\RickRollBot.csprojResolveAssemblyReference.cache
